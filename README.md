@@ -48,7 +48,7 @@ Before building, ensure you have:
 ### Quick Build
 ```batch
 # Clone the repository
-git clone https://github.com/fmgNICE/fmgnice-Video.git
+git clone https://github.com/fmgNICE/fmgNICE-Video.git
 cd fmgnice-video
 
 # Build the plugin
